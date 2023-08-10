@@ -1,6 +1,6 @@
 Hello :wave:
 
-- My name is @LeylineDev :fountain:
+- My name is @LeylineDev 🌱
 - I’m interested in coding and AI :desktop_computer:
 - I’m currently learning about model training :abacus:
 - I'm passionate, focussed and a fast learner :school:
@@ -10,7 +10,7 @@ Hello :wave:
 
 Allo :wave:
 
-- Mon nom est @LeylineDev :fountain:
+- Mon nom est @LeylineDev 🌱
 - Je m'intéresse a la programmation et a l'AI :desktop_computer:
 - J'apprend en ce moment a propos de l'entraînement de modèles d'AI :abacus:
 - Je suis passionné, focus et j'apprend très vite :school:
